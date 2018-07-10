@@ -8,7 +8,7 @@ STUDENT_NAMES = [
 ]
 
 def first_student_by_index
-  puts "#{student_names[0]"
+  student_name[0]
 end
 
 def fourth_student_by_index
