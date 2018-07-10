@@ -20,7 +20,7 @@ def last_student_by_index
 end
 
 def first_student_by_method
- room.first
+ STUDENT_NAMES.first
 end
 
 def last_student_by_method
