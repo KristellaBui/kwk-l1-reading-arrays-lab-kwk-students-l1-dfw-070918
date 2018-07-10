@@ -6,7 +6,7 @@ STUDENT_NAMES = [
   "Nicki Minaj",
   "Rihanna"
 ]
-
+student_name[0] = Adele
 def first_student_by_index
   puts student_name[0]
 end
