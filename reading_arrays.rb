@@ -8,8 +8,7 @@ STUDENT_NAMES = [
 ]
 
 def first_student_by_index
-  student_name[0] = Adele
-  puts student_name[0]
+  puts room.first_student_by_index
 end
 
 def fourth_student_by_index
